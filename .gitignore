@@ -1,0 +1,8 @@
+
+# ignore heavy binaries, builds, secrets
+backend/agricapp.exe
+backend/agricapp-macos
+backend/build/
+backend/dist/
+backend/.env
+*.DS_Store
